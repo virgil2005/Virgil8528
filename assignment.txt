@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Shecode</title>
+</head>
+<body>
+<h1>Shecode</h1>
+<ul>
+<li>codes</li>
+<li>course</li>
+<li>stories</li>
+</ul>
+<hr>
+<h3>more info</h3>
+</body>
+</html>
